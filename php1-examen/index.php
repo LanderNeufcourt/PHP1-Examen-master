@@ -59,7 +59,7 @@ if (true) {
         <div class="container">
             <div id="header" class="row">
                 <!-- Vergeet je naam niet! -->
-                <h1>Examen PHP: &lt; Lander Neufcourt &gt; </h1>
+                <h1>Examen PHP: &lt; Lander &gt; </h1>
             </div>
             <!-- Het artikel -->
             <div id="main" class="row">
